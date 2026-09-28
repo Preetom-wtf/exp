@@ -1,0 +1,6 @@
+{
+  "name": "Ganapati Real Estate",
+  "description": "Ganapati Real Estate by Dipendu Sen – trusted property brokerage in Kolkata for residential flats, plots, commercial spaces, and legal documentation across Topsia, Kasba, Tangra, Beleghata, and EM Bypass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
